@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void rev(int a[])
+void rev(char a[])
 {
 	int rev = 0;
 	int i;

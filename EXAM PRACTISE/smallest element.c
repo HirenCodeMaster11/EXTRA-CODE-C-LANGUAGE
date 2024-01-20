@@ -15,7 +15,7 @@ main()
 	{
 		if(sml>a[i])
 		{
-			a[i] = sml;
+			sml = a[i];
 		}
 	}
 	
